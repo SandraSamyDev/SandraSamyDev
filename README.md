@@ -1,10 +1,10 @@
 # <div align="center"><img src="welcome.gif" width="300" height="200" style="border-radius: 50%;" alt="Profile Photo"></div>
 
-I'm Sandra Samy
+## I'm Sandra Samy
 
-> *"Mobile-first engineer. DevOps enthusiast. Stack-agnostic."*
+> Mobile-first engineer. DevOps enthusiast. Stack-agnostic.
 
-📍 Egypt | | 🐧 Ubuntu
+📍Egypt | | <i class="bi bi-ubuntu"></i>Ubuntu
 
 
 
@@ -20,19 +20,11 @@ I'm Sandra Samy
 
 ```bash
 $ whoami
-> Sandra Samy | Software Engineer
+> Sandra Samy | Software Engineer from Assiut National University
 
 ```
 
-
-
-
-<!-- ============================================ -->
-<!-- SLOT 3: WORKSPACE GIF (Coding setup)         -->
-<!-- ============================================ -->
-
-
-## <img src="Businessman.gif" width="10%" alt="My Workspace Setup"> STATS
+## <img src="Businessman.gif" width="5%" alt="My Workspace Setup"> STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%">
@@ -46,28 +38,27 @@ $ whoami
 
 ---
 
-## TECH STACK
+## <img src="picmix.com_1897054.gif" width="5%" alt="Tech Stack Animation"> TECH STACK
 
-<!-- ============================================ -->
-<!-- SLOT 4: TECH STACK GIF (Animation)           -->
-<!-- ============================================ -->
-<img src="path/to/tech-stack-gif.gif" width="100%" alt="Tech Stack Animation">
 
 ### **Languages**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+
 
 ### **Frameworks & Tools**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 
 ### **DevOps & OS**
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -76,27 +67,22 @@ $ whoami
 
 ### **Databases**
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+<!-- 
+##  PROJECT HIGHLIGHTS
 
-
-
-## 📱 PROJECT HIGHLIGHTS
-
-<!-- ============================================ -->
-<!-- SLOT 5: PROJECT 1 DEMO GIF                   -->
-<!-- ============================================ -->
 <img src="path/to/project1-demo.gif" width="100%" alt="Project 1 Demo">
 
-### 🚀 [Project Name 1]
+###  DopaMind
 > **One-liner:** What this app does  
 > **Stack:** Flutter | Firebase | Hive  
 > **Role:** Full-stack Developer  
-> 🔗 [Live Demo](link) | [GitHub](link) | [Play Store](link)
+> 🔗 [Live Demo](link) | [https://img.shields.io/badge/github-repo-blue?logo=github](link)
 
 ---
 
@@ -105,11 +91,7 @@ $ whoami
 <!-- ============================================ -->
 <img src="path/to/project2-architecture.gif" width="100%" alt="Project 2 Architecture">
 
-### 🐳 [Project Name 2]
-> **One-liner:** What this system does  
-> **Stack:** .NET | Docker | SQL Server  
-> **Role:** DevOps + Backend Developer  
-> 🔗 [GitHub](link) | [Docker Hub](link)
+
 
 ---
 
@@ -118,7 +100,7 @@ $ whoami
 <!-- ============================================ -->
 <img src="path/to/project3-demo.gif" width="100%" alt="Project 3 Demo">
 
-### ⚡ [Project Name 3]
+###  [Project Name 3]
 > **One-liner:** What this tool does  
 > **Stack:** Python | Flask | MongoDB  
 > **Role:** Lead Developer  
@@ -133,27 +115,6 @@ $ whoami
 <!-- ============================================ -->
 <img src="path/to/fyp-demo.gif" width="100%" alt="FYP Demo"> -->
 
-### 📱 [Your FYP Title]
-
-```bash
-$ cat fyp/README.md
-```
-```
-Title:     [Your FYP Title]
-Stack:     Flutter | IoT | Docker | MongoDB
-Goal:      [What you're solving in 1 sentence]
-Progress:  ████████░░ 80%
-Status:    🚀 In development
-```
-
-**Key Features:**
-- ✅ Feature 1
-- ✅ Feature 2
-- 🔄 Feature 3 (in progress)
-- ⏳ Feature 4 (planned)
-
-🔗 [GitHub Repo](link) | 📄 [Documentation](link)
-
 ---
 
 <!-- ============================================ -->
@@ -167,13 +128,10 @@ Status:    🚀 In development
 - 🌍 Visited [X] countries
 - 🎸 Play [instrument] when not coding
 
----
+--- -->
 
-## 📬 CONNECT WITH ME
+## Socials
 
-<!-- ============================================ -->
-<!-- SLOT 10: EMAIL PHOTO/ICON                    -->
-<!-- ============================================ -->
 <div align="center">
   <table>
     <tr>
@@ -182,14 +140,20 @@ Status:    🚀 In development
         <br>
         <strong>Email</strong>
         <br>
-        <a href="mailto:sandrasamydev@email.com">sandrasamy@email.com</a>
+        <a href="mailto:sandrasamydev@email.com">sandrasamydev@email.com</a>
 
   <td align="center">
-        <img src="original-fa73e948d55a3424ad17c41c939c4059" width="100" alt="LinkedIn">
+        <img src="original-fa73e948d55a3424ad17c41c939c4059.gif" width="100" alt="LinkedIn">
         <br>
         <strong>LinkedIn</strong>
         <br>
-        <a href="https://linkedin.com/in/sandra-samy-sedky">@yourprofile</a>
+        <a href="https://linkedin.com/in/sandra-samy-sedky">@sandra-samy-sedky</a>
+   <td align="center">
+        <img src="https___thepracticaldev.s3.amazonaws.com_i_qb0wtz2xaqbgub8slcic.gif" width="100" alt="LinkedIn">
+        <br>
+        <strong>Dev.to</strong>
+        <br>
+        <a href="https://dev.to/sandrasamydev">@sandrasamydev</a>
       </td>
 
   </table>
@@ -197,7 +161,7 @@ Status:    🚀 In development
 
 ---
 
-## 🎯 2026 GOALS
+## <img src="1581416976087.gif" width="5%" alt="My Workspace Setup"> 2026 GOALS 
 
 ```bash
 $ cat goals/2026.txt
@@ -206,30 +170,21 @@ $ cat goals/2026.txt
 - [ ] Ship 2 Flutter apps to production
 - [ ] Get Docker Certified
 - [ ] Deploy full-stack app on Kubernetes
-- [ ] Write 12 blog posts (1 per month)
+- [ ] Write 2 essays (1 per month, no ai)
+- [ ] Revise on old programming concepts (no ai)
+
 ```
 
 ---
-
-<div align="center">
 
 ```bash
-$ echo "Thanks for stopping by! "
-> Thanks for stopping by! 
-
-$ echo "Let's build something amazing together."
-> Let's build something amazing together.
+$ echo "Thanks for stopping by! :)"
+> Thanks for stopping by!":)"
 ```
 
----
+<img src="lightbar.gif" width="100%" alt="Footer Animation">
 
-<!-- ============================================ -->
-<!-- SLOT 14: FOOTER GIF (Closing animation)     -->
-<!-- ============================================ -->
-<img src="path/to/footer-gif.gif" width="100%" alt="Footer Animation">
 
----
-
-**⭐ If you like this README, consider starring my repos!**
+**If you like this README, consider starring my repos!**
 
 </div>
