@@ -1,75 +1,38 @@
-# 👋 Hi, I'm [Your Name]
+# <div align="center"><img src="welcome.gif" width="300" height="200" style="border-radius: 50%;" alt="Profile Photo"></div>
 
-<div align="center">
-  <img src="welcome.gif" width="200" height="200" style="border-radius: 50%;" alt="Profile Photo">
-  <br>
-  <em></em>
-</div>
+I'm Sandra Samy
 
 > *"Mobile-first engineer. DevOps enthusiast. Stack-agnostic."*
 
-📍 [Egypt ] | | 🐧 Ubuntu
+📍 Egypt | | 🐧 Ubuntu
 
----
 
-<!-- ============================================ -->
-<!-- SLOT 1: PROFILE PHOTO (Circular/Header)      -->
-<!-- ============================================ -->
+
 <div align="center">
   <img src="bae30e0c7acfec296e5a30d0a75af0f1.gif" width="200" height="200" style="border-radius: 50%;" alt="Profile Photo">
   <br>
   <em></em>
 </div>
 
----
 
-<!-- ============================================ -->
-<!-- SLOT 2: BANNER GIF (Top of README)           -->
-<!-- ============================================ -->
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
----
-
-## ⚡ SYSTEM STATUS
 
 ```bash
 $ whoami
-> [Your Name] | Software Engineer
+> Sandra Samy | Software Engineer
 
-```
-```
-                   -`                    [Your Name]@devbox 
-                  .o+`                   ----------------
-                 `ooo/                   OS: Ubuntu 22.04 LTS x86_64
-                `+oooo:                  Kernel: 6.5.0-28-generic
-               `+oooooo:                 Shell: bash 5.1.16
-               -+oooooo+:                Languages: C++ C# Java JS Dart Python PHP
-             `/:-:++oooo+:               Frameworks: Flutter .NET Electron Flask
-            `/++++/+++++++:              Databases: Hive MongoDB MySQL SQLite
-           `/++++++++++++++:             Tools: Git  Docker  Linux 
-          `/+++ooooooooooooo/`           Status:  Building & Deploying
-         ./ooosssso++osssssso+`          
-        .oossssso-````/ossssss+`         "I don't fight the stack. I master it."
-       -osssssso.      :ssssssso.        
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-     
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/    
- .`                                 `/    
 ```
 
 
----
+
 
 <!-- ============================================ -->
 <!-- SLOT 3: WORKSPACE GIF (Coding setup)         -->
 <!-- ============================================ -->
-<img src="Businessman.gif" width="100%" alt="My Workspace Setup">
 
----
 
-## STATS
+## <img src="Businessman.gif" width="10%" alt="My Workspace Setup"> STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%">
@@ -120,27 +83,7 @@ $ whoami
 
 ---
 
-##whoami
 
-```bash
-[Your Name]@ubuntu:~$ cat ~/.skills
-```
-```
-Languages:   C++ | C# | Java | JS | Dart | Python | PHP
-Frameworks:  Flutter | .NET | Electron | Flask
-Databases:   Hive | MongoDB | MySQL | SQL Server | SQLite
-Tools:       Git | Docker | Linux (Ubuntu 22.04)
-```
-
-```bash
-[Your Name]@ubuntu:~$ echo $FOCUS
-Mobile App Development + DevOps
-
-[Your Name]@ubuntu:~$ echo $STATUS
-Currently: Building Flutter apps | Containerizing with Docker | Learning Kubernetes
-```
-
----
 
 ## 📱 PROJECT HIGHLIGHTS
 
