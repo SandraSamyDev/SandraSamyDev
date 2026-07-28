@@ -1,6 +1,6 @@
 # <div align="center"><img src="welcome.gif" width="300" height="200" style="border-radius: 50%;" alt="Profile Photo"></div>
 
-## I'm Sandra Samy
+## I'm Sandra Samy :)
 
 > Mobile-first engineer. DevOps enthusiast. Stack-agnostic.
 
@@ -27,14 +27,22 @@ $ whoami
 ## <img src="Businessman.gif" width="5%" alt="My Workspace Setup"> STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%">
+## 📊 GITHUB STATS
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=SandraSamyDev&show_icons=true&theme=radical" width="48%">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandraSamyDev&theme=radical" width="48%">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandraSamyDev&layout=compact&theme=radical" width="48%">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=SandraSamyDev&theme=radical" width="48%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical" width="48%">
-</div>
+
 
 ---
 
@@ -72,54 +80,7 @@ $ whoami
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-<!-- 
-##  PROJECT HIGHLIGHTS
 
-<img src="path/to/project1-demo.gif" width="100%" alt="Project 1 Demo">
-
-###  DopaMind
-> **One-liner:** What this app does  
-> **Stack:** Flutter | Firebase | Hive  
-> **Role:** Full-stack Developer  
-> 🔗 [Live Demo](link) | [https://img.shields.io/badge/github-repo-blue?logo=github](link)
-
----
-
-<!-- ============================================ -->
-<!-- SLOT 6: PROJECT 2 GIF (Architecture)        -->
-<!-- ============================================ -->
-<img src="path/to/project2-architecture.gif" width="100%" alt="Project 2 Architecture">
-
-
-
----
-
-<!-- ============================================ -->
-<!-- SLOT 7: PROJECT 3 GIF (Demo)                -->
-<!-- ============================================ -->
-<img src="path/to/project3-demo.gif" width="100%" alt="Project 3 Demo">
-
-###  [Project Name 3]
-> **One-liner:** What this tool does  
-> **Stack:** Python | Flask | MongoDB  
-> **Role:** Lead Developer  
-> 🔗 [GitHub](link) | [API Docs](link)
-
----
-
-<!-- ## 🎓 FINAL YEAR PROJECT
-
-<!-- ============================================ -->
-<!-- SLOT 8: FYP GIF (Demo/Architecture)         -->
-<!-- ============================================ -->
-<img src="path/to/fyp-demo.gif" width="100%" alt="FYP Demo"> -->
-
----
-
-<!-- ============================================ -->
-<!-- SLOT 9: FUN GIF (Personal/Meme)             -->
-<!-- ============================================ -->
 <img src="path/to/fun-gif.gif" width="400" alt="Fun GIF">
 
 ## 🎮 Beyond the Code
@@ -136,7 +97,7 @@ $ whoami
   <table>
     <tr>
       <td align="center">
-        <img src="mailbox.gif" width="100" alt="Email">
+        <img src="mailbox.gif" width="100" height=100 alt="Email">
         <br>
         <strong>Email</strong>
         <br>
