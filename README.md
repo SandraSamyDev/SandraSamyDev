@@ -2,57 +2,79 @@
 
 # I'm Sandra Samy :)
 
-> Software Engineer | Mobile-first. Cloud-ready. Stack-agnostic.
-
-📍Egypt | |<img src="Ubuntu.png" width="100%" alt="ubuntu">  Ubuntu
-
-
-
-<div align="center">
-  <img src="bae30e0c7acfec296e5a30d0a75af0f1.gif" width="200" height="200" style="border-radius: 50%;" alt="Profile Photo">
-  <br>
-  <em></em>
-</div>
-
-
-
-
-
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="bae30e0c7acfec296e5a30d0a75af0f1.gif" width="200" height="200" style="border-radius: 50%;" alt="Profile Photo">
+      <br><br>
+      <strong> Sandra Samy</strong>
+      <br>
+      <em>Software Engineer</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/📍-Assuit%2C%20Egypt-orange?style=flat">
+      <br>
+      <img src="https://img.shields.io/badge/🐧-Ubuntu%2022.04-E95420?style=flat">
+    </td>
+    <td width="75%">
+      
 ```bash
-$ whoami
-> Sandra Samy | Software Engineer from Assuit National University
-Specializing in Mobile App Development & DevOps
-Passionate about building scalable, user-friendly applications
-Flexible across multiple frameworks and technologies
+SandraSamy@ubuntu:~$ whoami
+software-engineer
 
+SandraSamy@ubuntu:~$ cat ~/.profile
 ```
+```
+NAME:     Sandra Samy
+ROLE:     Software Engineer
+UNIVERSITY: Assuit National University
+FOCUS:    Mobile App Development & DevOps
+MOTTO:    "Building scalable, user-friendly applications"
+STACK:    Flutter | .NET | Docker | Ubuntu
+```
+      
+  </tr>
+</table>
+
+
+
+
+
+
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
 
-## <img src="Excel.gif" width="100%" alt="stats"> STATS
+# <img src="Excel.gif" width="5%" alt="stats"> STATS
 
 <div align="center">
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandraSamyDev&theme=github_dark
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandraSamyDev&theme=github_dark" width="100%">
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandraSamyDev&theme=github_dark
+
+<table>
+  <tr>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandraSamyDev&theme=github_dark" width="100%"></td>
+
+
 
 <!-- &exclude={exclude} -->
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandraSamyDev&theme=github_dark
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandraSamyDev&theme=github_dark" width="100%"></td>
+
+
 
 
 <!-- &exclude={exclude} -->
 
+ <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandraSamyDev&theme=github_dark" width="100%"></td>
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandraSamyDev&theme=github_dark
-
+  </tr>
+</table>
 
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-## <img src="picmix.com_1897054.gif" width="5%" alt="Tech Stack Animation"> TECH STACK
+# <img src="picmix.com_1897054.gif" width="5%" alt="Tech Stack Animation"> TECH STACK
 
 
 ### **Languages**
@@ -89,9 +111,8 @@ http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandraSa
 
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
-<img src="cd-4.gif" width="5%" alt="Fun GIF">
 
-## <img src="cd-4.gif" width="5%" alt="Fun GIF"> Beyond the Code
+# <img src="cd-4.gif" width="5%" alt="Fun GIF"> Beyond the Code
 - ☕ I brew my own coffee (and sometimes code)
 - 🏃 Run 5Ks to clear my head
 - 🌍 Visited [X] countries
@@ -99,7 +120,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandraSa
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-## <img src="Globo.gif" width="100%" alt="socials"> Socials
+# <img src="Globo.gif" alt="socials"> Socials
 
 <div align="center">
   <table>
