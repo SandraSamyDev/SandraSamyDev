@@ -113,14 +113,6 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-# <img src="cd-4.gif" width="5%" alt="Fun GIF"> Beyond the Code
-- ☕ I brew my own coffee (and sometimes code)
-- 🏃 Run 5Ks to clear my head
-- 🌍 Visited [X] countries
-- 🎸 Play [instrument] when not coding
-
-<img src="lightbar.gif" width="100%" alt="Banner Animation">
-
 # <img src="Globo.gif" alt="socials"> Socials
 
 <div align="center">
