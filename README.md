@@ -11,7 +11,7 @@
       <br>
       <em>Software Engineer</em>
       <br><br>
-      <img src="https://img.shields.io/badge/📍-Assuit%2C%20Egypt-orange?style=flat">
+      <img src="https://img.shields.io/badge/📍-Egypt-orange?style=flat">
       <br>
       <img src="https://img.shields.io/badge/🐧-Ubuntu%2022.04-E95420?style=flat">
     </td>
@@ -70,7 +70,8 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 
   </tr>
 </table>
-
+</tr>
+</div>
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
@@ -144,6 +145,13 @@ STACK:    Flutter | .NET | Docker | Ubuntu
         <strong>Dev.to</strong>
         <br>
         <a href="https://dev.to/sandrasamydev">@sandrasamydev</a>
+
+  <td align="center">
+        <img src="original-c0db2041822a946b9529b5ae1fdf08e8.gif" width="100" height ="100" alt="LinkedIn">
+        <br>
+        <strong>Portfolio</strong>
+        <br>
+        <a href="https://SandraSamyDev.github.io/portfolio/">Sandra Samy</a>
       </td>
 
   </table>
@@ -153,17 +161,11 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 
 ## <img src="1581416976087.gif" width="5%" alt="goals"> 2026 GOALS 
 
-```bash
-$ cat goals/2026.txt
-```
-```
-- [ ] Ship 2 Flutter apps to production
-- [ ] Get Docker Certified
-- [ ] Deploy full-stack app on Kubernetes
-- [ ] Write 2 essays (1 per month, no ai)
-- [ ] Revise on old programming concepts (no ai)
-
-```
+- [ ]  Ship 2 Flutter apps to production *(Currently building #1)*
+- [ ]  Get Docker Certified *(Studying for exam)*
+- [ ]  Deploy full-stack app on Kubernetes *(Planning phase)*
+- [ ]  Write 2 essays (no AI) *(1 down, 1 to go!)*
+- [ ]  Revise old programming concepts (no AI) *(Starting next month)*
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
@@ -177,4 +179,4 @@ $ echo "Thanks for stopping by! :)"
 
 **If you like this README, consider starring my repos!**
 
-</div>
+</div
