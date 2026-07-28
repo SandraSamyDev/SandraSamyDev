@@ -1,10 +1,10 @@
 # <div align="center"><img src="welcome.gif" width="300" height="200" style="border-radius: 50%;" alt="Profile Photo"></div>
 
-## I'm Sandra Samy :)
+# I'm Sandra Samy :)
 
-> Mobile-first engineer. DevOps enthusiast. Stack-agnostic.
+> Software Engineer | Mobile-first. Cloud-ready. Stack-agnostic.
 
-📍Egypt | | <i class="bi bi-ubuntu"></i>Ubuntu
+📍Egypt | |<img src="Ubuntu.png" width="100%" alt="ubuntu">  Ubuntu
 
 
 
@@ -15,36 +15,42 @@
 </div>
 
 
-<img src="lightbar.gif" width="100%" alt="Banner Animation">
+
 
 
 ```bash
 $ whoami
-> Sandra Samy | Software Engineer from Assiut National University
+> Sandra Samy | Software Engineer from Assuit National University
+Specializing in Mobile App Development & DevOps
+Passionate about building scalable, user-friendly applications
+Flexible across multiple frameworks and technologies
 
 ```
+<img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-## <img src="Businessman.gif" width="5%" alt="My Workspace Setup"> STATS
+
+## <img src="Excel.gif" width="100%" alt="stats"> STATS
 
 <div align="center">
-## 📊 GITHUB STATS
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SandraSamyDev&show_icons=true&theme=radical" width="48%">
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandraSamyDev&theme=github_dark
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandraSamyDev&theme=github_dark
+
+<!-- &exclude={exclude} -->
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandraSamyDev&theme=github_dark
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandraSamyDev&theme=radical" width="48%">
+<!-- &exclude={exclude} -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandraSamyDev&layout=compact&theme=radical" width="48%">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=SandraSamyDev&theme=radical" width="48%">
-</div>
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandraSamyDev&theme=github_dark
 
 
 
----
+<img src="lightbar.gif" width="100%" alt="Banner Animation">
 
 ## <img src="picmix.com_1897054.gif" width="5%" alt="Tech Stack Animation"> TECH STACK
 
@@ -81,36 +87,38 @@ $ whoami
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<img src="path/to/fun-gif.gif" width="400" alt="Fun GIF">
 
-## 🎮 Beyond the Code
+<img src="lightbar.gif" width="100%" alt="Banner Animation">
+<img src="cd-4.gif" width="5%" alt="Fun GIF">
+
+## <img src="cd-4.gif" width="5%" alt="Fun GIF"> Beyond the Code
 - ☕ I brew my own coffee (and sometimes code)
 - 🏃 Run 5Ks to clear my head
 - 🌍 Visited [X] countries
 - 🎸 Play [instrument] when not coding
 
---- -->
+<img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-## Socials
+## <img src="Globo.gif" width="100%" alt="socials"> Socials
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="mailbox.gif" width="100" height=100 alt="Email">
+        <img src="mailbox.gif" width="100" height ="100" alt="Email">
         <br>
         <strong>Email</strong>
         <br>
         <a href="mailto:sandrasamydev@email.com">sandrasamydev@email.com</a>
 
   <td align="center">
-        <img src="original-fa73e948d55a3424ad17c41c939c4059.gif" width="100" alt="LinkedIn">
+        <img src="original-fa73e948d55a3424ad17c41c939c4059.gif" width="100" height ="100"  alt="LinkedIn">
         <br>
         <strong>LinkedIn</strong>
         <br>
         <a href="https://linkedin.com/in/sandra-samy-sedky">@sandra-samy-sedky</a>
    <td align="center">
-        <img src="https___thepracticaldev.s3.amazonaws.com_i_qb0wtz2xaqbgub8slcic.gif" width="100" alt="LinkedIn">
+        <img src="https___thepracticaldev.s3.amazonaws.com_i_qb0wtz2xaqbgub8slcic.gif" width="100" height ="100" alt="LinkedIn">
         <br>
         <strong>Dev.to</strong>
         <br>
@@ -120,9 +128,9 @@ $ whoami
   </table>
 </div>
 
----
+<img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-## <img src="1581416976087.gif" width="5%" alt="My Workspace Setup"> 2026 GOALS 
+## <img src="1581416976087.gif" width="5%" alt="goals"> 2026 GOALS 
 
 ```bash
 $ cat goals/2026.txt
@@ -136,7 +144,7 @@ $ cat goals/2026.txt
 
 ```
 
----
+<img src="lightbar.gif" width="100%" alt="Banner Animation">
 
 ```bash
 $ echo "Thanks for stopping by! :)"
