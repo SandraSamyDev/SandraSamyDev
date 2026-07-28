@@ -178,46 +178,20 @@ Status:    🚀 In development
   <table>
     <tr>
       <td align="center">
-        <img src="mailbox.gif" width="50" alt="Email">
+        <img src="mailbox.gif" width="100" alt="Email">
         <br>
         <strong>Email</strong>
         <br>
         <a href="mailto:sandrasamydev@email.com">sandrasamy@email.com</a>
-      </td>
-      
-<!-- ============================================ -->
-<!-- SLOT 11: GITHUB PHOTO/ICON                  -->
-<!-- ============================================ -->
-      <td align="center">
-        <img src="path/to/github-icon.png" width="50" alt="GitHub">
-        <br>
-        <strong>GitHub</strong>
-        <br>
-        <a href="https://github.com/yourusername">@yourusername</a>
-      </td>
-      
-<!-- ============================================ -->
-<!-- SLOT 12: LINKEDIN PHOTO/ICON                -->
-<!-- ============================================ -->
-      <td align="center">
-        <img src="path/to/linkedin-icon.png" width="50" alt="LinkedIn">
+
+  <td align="center">
+        <img src="original-fa73e948d55a3424ad17c41c939c4059" width="100" alt="LinkedIn">
         <br>
         <strong>LinkedIn</strong>
         <br>
-        <a href="https://linkedin.com/in/yourprofile">@yourprofile</a>
+        <a href="https://linkedin.com/in/sandra-samy-sedky">@yourprofile</a>
       </td>
-      
-<!-- ============================================ -->
-<!-- SLOT 13: TWITTER/X PHOTO/ICON               -->
-<!-- ============================================ -->
-      <td align="center">
-        <img src="path/to/twitter-icon.png" width="50" alt="Twitter">
-        <br>
-        <strong>Twitter/X</strong>
-        <br>
-        <a href="https://twitter.com/yourhandle">@yourhandle</a>
-      </td>
-    </tr>
+
   </table>
 </div>
 
