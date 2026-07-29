@@ -119,54 +119,34 @@ STACK:    Flutter | Android | Docker | Ubuntu | .Net and many more......
 <div align="center">
   <table style="table-layout: fixed; width: 100%;">
     <tr>
-
-  <td align="center" width="20%">
+      <td align="center" width="20%">
         <img src="mailbox.gif" width="80" height="80" alt="Email">
         <br>
-        <strong>Email</strong>
-        <br>
-        <a href="mailto:sandrasamydev@gmail.com">sandrasamydev</a>
+        <a href="mailto:sandrasamydev@gmail.com">sandrasamydev@gmail.com</a>
       </td>
-      
-
-  <td align="center" width="20%">
+      <td align="center" width="20%">
         <img src="linkedin(1).png" width="80" height="80" alt="LinkedIn">
         <br>
-        <strong>LinkedIn</strong>
-        <br>
-        <a href="https://linkedin.com/in/sandra-samy-sedky">@sandra-samy</a>
+        <a href="https://linkedin.com/in/sandra-samy-sedky">@sandra-samy-sedky</a>
       </td>
-      
-
-   <td align="center" width="20%">
-        <img src="https___thepracticaldev.s3.amazonaws.com_i_qb0wtz2xaqbgub8slcic.gif" width="80" height="80" alt="Dev.to">
-        <br>
-        <strong>Dev.to</strong>
+      <td align="center" width="20%">
+        <img src="8j7kvp660rqzt99zui8e.png" width="80" height="80" alt="Dev.to">
         <br>
         <a href="https://dev.to/sandrasamydev">@sandrasamydev</a>
       </td>
-      
-
-  <td align="center" width="20%">
-        <img src="original-c0db2041822a946b9529b5ae1fdf08e8.gif" width="80" height="80" alt="Portfolio">
-        <br>
-        <strong>Portfolio</strong>
+      <td align="center" width="20%">
+        <img src="6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif" width="80" height="80" alt="Portfolio">
         <br>
         <a href="https://SandraSamyDev.github.io/portfolio/">Sandra Samy</a>
       </td>
-      
-
-  <td align="center" width="20%">
+      <td align="center" width="20%">
         <img src="LeetCode_Logo_2.png" width="80" height="80" alt="LeetCode">
-        <br>
-        <strong>LeetCode</strong>
         <br>
         <a href="https://leetcode.com/u/sandrasamy/">sandrasamy</a>
       </td>
     </tr>
   </table>
 </div>
-
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
 ## <img src="1581416976087.gif" width="10%" alt="goals"> 2026 GOALS 
