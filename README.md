@@ -29,7 +29,7 @@ ROLE:     Software Engineer
 UNIVERSITY: Assuit National University
 FOCUS:    Mobile App Development & DevOps
 MOTTO:    "Building scalable, user-friendly applications"
-STACK:    Flutter | .NET | Docker | Ubuntu
+STACK:    Flutter | Android | Docker | Ubuntu | .Net and many more......
 ```
       
   </tr>
@@ -75,7 +75,7 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-# <img src="picmix.com_1897054.gif" width="5%" alt="Tech Stack Animation"> TECH STACK
+# <img src="picmix.com_1897054.gif" width="3%" alt="Tech Stack Animation"> TECH STACK
 
 
 ### **Languages**
@@ -95,12 +95,13 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel]("https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white")
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### **DevOps & OS**
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### **Databases**
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
@@ -116,50 +117,59 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 # <img src="Globo.gif" alt="socials"> Socials
 
 <div align="center">
-  <table>
+  <table style="table-layout: fixed; width: 100%;">
     <tr>
-      <td align="center">
-        <img src="mailbox.gif" width="100" height ="100" alt="Email">
+
+  <td align="center" width="20%">
+        <img src="mailbox.gif" width="80" height="80" alt="Email">
         <br>
         <strong>Email</strong>
         <br>
-        <a href="mailto:sandrasamydev@gmail.com">sandrasamydev@gmail.com</a>
+        <a href="mailto:sandrasamydev@gmail.com">sandrasamydev</a>
+      </td>
+      
 
-  <td align="center">
-        <img src="aaxo65b2s.webp" width="100" height ="100"  alt="LinkedIn">
+  <td align="center" width="20%">
+        <img src="linkedin(1).png" width="80" height="80" alt="LinkedIn">
         <br>
         <strong>LinkedIn</strong>
         <br>
-        <a href="https://linkedin.com/in/sandra-samy-sedky">@sandra-samy-sedky</a>
-   <td align="center">
-        <img src="https___thepracticaldev.s3.amazonaws.com_i_qb0wtz2xaqbgub8slcic.gif" width="100" height ="100" alt="LinkedIn">
+        <a href="https://linkedin.com/in/sandra-samy-sedky">@sandra-samy</a>
+      </td>
+      
+
+   <td align="center" width="20%">
+        <img src="https___thepracticaldev.s3.amazonaws.com_i_qb0wtz2xaqbgub8slcic.gif" width="80" height="80" alt="Dev.to">
         <br>
         <strong>Dev.to</strong>
         <br>
         <a href="https://dev.to/sandrasamydev">@sandrasamydev</a>
+      </td>
+      
 
-  <td align="center">
-        <img src="original-c0db2041822a946b9529b5ae1fdf08e8.gif" width="100" height ="100" alt="LinkedIn">
+  <td align="center" width="20%">
+        <img src="original-c0db2041822a946b9529b5ae1fdf08e8.gif" width="80" height="80" alt="Portfolio">
         <br>
         <strong>Portfolio</strong>
         <br>
         <a href="https://SandraSamyDev.github.io/portfolio/">Sandra Samy</a>
+      </td>
+      
 
-    
-  <td align="center">
-        <img src="LeetCode_Logo_2.png" width="100" height ="100" alt="LinkedIn">
+  <td align="center" width="20%">
+        <img src="LeetCode_Logo_2.png" width="80" height="80" alt="LeetCode">
         <br>
         <strong>LeetCode</strong>
         <br>
         <a href="https://leetcode.com/u/sandrasamy/">sandrasamy</a>
       </td>
-
+    </tr>
   </table>
 </div>
 
 <img src="lightbar.gif" width="100%" alt="Banner Animation">
 
-## <img src="1581416976087.gif" width="5%" alt="goals"> 2026 GOALS 
+## <img src="1581416976087.gif" width="10%" alt="goals"> 2026 GOALS 
 
 - [ ]  Ship 2 Flutter apps to production *(Currently building #1)*
 - [ ]  Get Docker Certified *(Studying for exam)*
@@ -171,7 +181,7 @@ STACK:    Flutter | .NET | Docker | Ubuntu
 
 ```bash
 $ echo "Thanks for stopping by! :)"
-> Thanks for stopping by!":)"
+> Thanks for stopping by!:)
 ```
 
 <img src="lightbar.gif" width="100%" alt="Footer Animation">
