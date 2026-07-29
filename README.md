@@ -123,7 +123,7 @@ STACK:    Flutter | .NET | Docker | Ubuntu
         <br>
         <strong>Email</strong>
         <br>
-        <a href="mailto:sandrasamydev@email.com">sandrasamydev@email.com</a>
+        <a href="mailto:sandrasamydev@gmail.com">sandrasamydev@gmail.com</a>
 
   <td align="center">
         <img src="original-fa73e948d55a3424ad17c41c939c4059.gif" width="100" height ="100"  alt="LinkedIn">
